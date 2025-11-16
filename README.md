@@ -59,7 +59,7 @@ A fully custom ERC-20 token written from scratch — no imports, no dependencies
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/alan-joshy" target="_blank">
