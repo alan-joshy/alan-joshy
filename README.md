@@ -1,20 +1,22 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-link-here" width="100%" alt="Profile Banner"/>
+  <img src="profile-banner.png" width="100%" alt="Profile Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">Blockchain Developer • Full-Stack Engineer • AI Enthusiast</h3>
+<h3 align="center">Full-Stack Web3 Developer • 4+ Years Experience</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Passionate about **Web3, AI, and Modern JavaScript ecosystems**
-- 🔭 Currently working on **Smart Contracts, dApps, AI-assisted tools**
-- 🌱 Learning & improving in **Solidity, Hardhat, Node.js, Ethers.js, and Vite**
-- 🎯 Goal: Build high-quality decentralized applications with clean architecture
-- 📫 Reach me anytime — I’m always open to collaboration
+- 🧩 Full-stack Web3 developer with **4 years experience**  
+- 💻 I build **dApps, smart contracts, backend services, and modern frontends**
+- ⚡ Skilled in **Solidity, Hardhat, Ethers.js, React, Node.js, Vite, Web3 integrations**
+- 🤖 AI-assisted development using **ChatGPT, Claude, and automation tools**
+- 🚀 Focused on clean architecture, modern tooling, and developer experience
+- 🌍 Active in the **Web3, EVM, and open-source ecosystem**
+- 📨 Open to collaborations and Web3 freelance work
 
 ---
 
@@ -52,25 +54,36 @@
 ## 🚀 Featured Project
 
 ### 🪙 **ERC-20 Token Project**
-A fully custom ERC-20 token written from scratch — no imports, no dependencies.
+A fully custom ERC-20 token written completely from scratch —  
+clean, modular, dependency-free.
 
 🔗 Repo:  
 **https://github.com/alan-joshy/erc20-token**
 
 ---
 
-<h2>Connect With Me</h2>
+## 🌐 Connect With Me
 
-<div align="left">
-  <a href="https://github.com/alan-joshy"><img src="https://skillicons.dev/icons?i=github" height="45"></a>
-  <a href="https://linkedin.com/in/alanjoshyp"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
-  <a href="mailto:alanjoshy517@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"></a>
-  <a href="https://x.com/alanbtc_eth"><img src="https://skillicons.dev/icons?i=twitter" height="45"></a>
-  <a href="https://t.me/malluweb3"><img src="https://skillicons.dev/icons?i=telegram" height="45"></a>
-</div>
+<p align="left">
+  <a href="https://github.com/alan-joshy" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  <a href="https://linkedin.com/in/alanjoshyp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="mailto:alanjoshy517@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  <a href="https://x.com/alanbtc_eth" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+  </a>
+  <a href="https://t.me/malluweb3" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" height="45" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  🚀 <b>Building the future, one block at a time.</b>
+  🚀 <b>Building the decentralized future, one block at a time.</b>
 </p>
