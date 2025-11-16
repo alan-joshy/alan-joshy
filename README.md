@@ -57,6 +57,8 @@ A fully custom ERC-20 token written from scratch — no imports, no dependencies
 ---
 
 ## 🌐 Connect With Me
+## 🌐 Connect With Me
+
 <p align="left">
 
   <!-- GitHub -->
@@ -70,21 +72,18 @@ A fully custom ERC-20 token written from scratch — no imports, no dependencies
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:alanjoshy517@gmail.com">
+  <a href="mailto:alanjoshy517@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 
   <!-- X / Twitter -->
   <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="40"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
   </a>
 
   <!-- Telegram -->
   <a href="https://t.me/malluweb3" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-      height="40"
-    />
+    <img src="https://skillicons.dev/icons?i=telegram" height="45" />
   </a>
 
 </p>
