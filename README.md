@@ -62,25 +62,16 @@ clean, modular, dependency-free.
 
 ---
 
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
-<p align="left">
-  <a href="https://github.com/alan-joshy" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-  <a href="https://linkedin.com/in/alanjoshyp" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-  <a href="mailto:alanjoshy517@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
-  <a href="https://x.com/alanbtc_eth" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
-  </a>
-  <a href="https://t.me/malluweb3" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" height="45" />
-  </a>
-</p>
+<div align="left">
+  <a href="https://github.com/alan-joshy"><img src="https://skillicons.dev/icons?i=github" height="45"></a>
+  <a href="https://linkedin.com/in/alanjoshyp"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
+  <a href="mailto:alanjoshy517@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"></a>
+  <a href="https://x.com/alanbtc_eth"><img src="https://skillicons.dev/icons?i=twitter" height="45"></a>
+  <a href="https://t.me/malluweb3"><img src="https://skillicons.dev/icons?i=telegram" height="45"></a>
+</div>
+
 
 ---
 
