@@ -57,37 +57,23 @@ A fully custom ERC-20 token written from scratch — no imports, no dependencies
 ---
 
 ## 🌐 Connect With Me
-## 🌐 Connect With Me
-
 <p align="left">
-
-  <!-- GitHub -->
   <a href="https://github.com/alan-joshy" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/alanjoshyp" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-
-  <!-- Gmail -->
   <a href="mailto:alanjoshy517@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
-
-  <!-- X / Twitter -->
-  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+  <a href="https://x.com/alanbtc_eth" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="45" />
   </a>
-
-  <!-- Telegram -->
   <a href="https://t.me/malluweb3" target="_blank">
     <img src="https://skillicons.dev/icons?i=telegram" height="45" />
   </a>
-
 </p>
-
 ---
 
 <p align="center">
