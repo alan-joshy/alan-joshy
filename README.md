@@ -45,8 +45,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alan-joshy&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-joshy&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alan-joshy&show_icons=true&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-joshy&layout=compact&theme=dark" height="170" />
 </p>
 
 ---
