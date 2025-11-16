@@ -9,6 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
+
 - 🚀 Passionate about **Web3, AI, and Modern JavaScript ecosystems**
 - 🔭 Currently working on **Smart Contracts, dApps, AI-assisted tools**
 - 🌱 Learning & improving in **Solidity, Hardhat, Node.js, Ethers.js, and Vite**
@@ -40,6 +41,7 @@
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alan-joshy&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-joshy&layout=compact&theme=tokyonight" height="170" />
@@ -48,6 +50,7 @@
 ---
 
 ## 🚀 Featured Project
+
 ### 🪙 **ERC-20 Token Project**
 A fully custom ERC-20 token written from scratch — no imports, no dependencies.
 
@@ -57,6 +60,7 @@ A fully custom ERC-20 token written from scratch — no imports, no dependencies
 ---
 
 ## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://github.com/alan-joshy" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
@@ -74,6 +78,7 @@ A fully custom ERC-20 token written from scratch — no imports, no dependencies
     <img src="https://skillicons.dev/icons?i=telegram" height="45" />
   </a>
 </p>
+
 ---
 
 <p align="center">
